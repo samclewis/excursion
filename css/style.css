@@ -12,7 +12,7 @@ header {
   text-align: center;
 }
 
-#download {
+.download {
   color: aquamarine;
   font-size: 16px;
 }
